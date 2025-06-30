@@ -2,7 +2,7 @@
 *A powerful tool to automatically block spam SMS in Termux with custom filters and real-time protection.*
 
 ![Banner](https://img.shields.io/badge/Created%20by-FAZO28-blue) 
-![GitHub stars](https://img.shields.io/github/stars/Fazo28/termux-sms-spam-blocker?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/Old-hacker01/termux-sms-spam-blocker?style=social) 
 ![Termux](https://img.shields.io/badge/Termux-Approved-brightgreen)
 
 <p align="center">
@@ -24,7 +24,7 @@ Run these commands in Termux:
 ```bash
 pkg update && pkg upgrade
 pkg install git
-git clone https://github.com/Fazo28/termux-sms-spam-blocker.git
+git clone https://github.com/Old-hacker01/spam-blocker.git
 cd termux-sms-spam-blocker
 chmod +x spam_blocker.sh
 ./spam_blocker.sh
