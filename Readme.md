@@ -25,6 +25,6 @@ Run these commands in Termux:
 pkg update && pkg upgrade
 pkg install git
 git clone https://github.com/Old-hacker01/spam-blocker.git
-cd termux-sms-spam-blocker
+cd spam-blocker
 chmod +x spam_blocker.sh
 ./spam_blocker.sh
