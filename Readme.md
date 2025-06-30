@@ -27,4 +27,4 @@ pkg install git
 git clone https://github.com/Old-hacker01/spam-blocker.git
 cd spam-blocker
 chmod +x spam_blocker.sh
-./spam_blocker.sh
+bash ./spam_locker.sh
