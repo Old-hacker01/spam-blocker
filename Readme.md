@@ -1,4 +1,5 @@
 # 📱 Termux SMS Spam Blocker 🔒
+<a href="https://ibb.co/k69Pz20c"><img src="https://i.ibb.co/cXCsRhtT/Screenshot-20250630-222614-Termux.jpg" alt="Screenshot-20250630-222614-Termux" border="0"></a>
 *A powerful tool to automatically block spam SMS in Termux with custom filters and real-time protection.*
 
 ![Banner](https://img.shields.io/badge/Created%20by-FAZO28-blue) 
